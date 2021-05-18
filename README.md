@@ -1,2 +1,2 @@
 # Keeper-React-App
-![frontpage](/../<main>/Screenshots/KeeperApp.png?raw=true "Optional Title")
+![frontpage](https://github.com/r2shanbh/Keeper-React-App/blob/main/Screenshots/KeeperApp.PNG?raw=true "Optional Title")
