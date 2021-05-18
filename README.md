@@ -1,2 +1,2 @@
 # Keeper-React-App
-![ScreenShot](/Screenshots/KeeperApp.png)
+![frontpage](/Screenshots/KeeperApp.png?raw=true "Optional Title")
